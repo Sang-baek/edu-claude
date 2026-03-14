@@ -119,7 +119,7 @@ if not st.session_state.api_key:
 api_key = st.session_state.api_key
 
 st.title("🎓 교육학 전문 Claude")
-st.caption("교육과정 설계 · 학습 이론 · 논문 작성 전문 AI 어시스턴트")
+st.caption("교육과정 설계 · 학습 이론 · 논문 작성 전문 AI 어시스턴트 / Made By Sangbaek Kim")
 
 with st.sidebar:
     st.header("설정")
