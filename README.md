@@ -12,9 +12,16 @@
 - 🧠 학습 이론 (Vygotsky, Piaget, 자기조절학습 등)
 - 📝 교육학 논문 작성 지원 (APA 형식, 연구방법론 등)
 
-## 실행 방법
+## 실행 방법 1
 
 ```bash
 pip install -r requirements.txt
+python -m streamlit run app.py
+```
+
+
+## 실행 방법 2
+```bash
+python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
